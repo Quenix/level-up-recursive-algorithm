@@ -9,8 +9,8 @@ for(i = 2; i < 100; i++) {
 
 let player = {
 	name: 'Cloud Strife',
-  level: 1,
-  lvlProgress: 0,
+  	level: 1,
+  	lvlProgress: 0,
 }
 
 
